@@ -3,4 +3,4 @@
 #### H4 sized header
 [外部链接](https://github.com/)
 
-[跳转到下一个markdown文件](./markdown2)
+[跳转到下一个markdown文件](./markdown2.md)
